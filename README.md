@@ -1,2 +1,5 @@
 # Human-Gait-Analysis
-Human Activity Recognition with ML Models and Neural Networks
+
+Human Activity Recognition with ML Models and Neural Networks. 
+
+The Database is available at [HuGaDB](https://github.com/romanchereshnev/HuGaDB).
