@@ -2,4 +2,4 @@
 
 Human Activity Recognition with ML Models and Neural Networks. 
 
-The Database and description is available at [HuGaDB](https://github.com/romanchereshnev/HuGaDB).
+The Database and description are available at [HuGaDB](https://github.com/romanchereshnev/HuGaDB).
